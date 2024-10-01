@@ -5,15 +5,7 @@ eureka:
 
 
 
-microservice:
-  payment-service:
-    endpoints:
-      fetchPaymentById:
-        uri: http://PAYMENT-SERVICE/payments/
-  user-service:
-    endpoints:
-      fetchUserById:
-        uri: http://USER-SERVICE/users/
+
 
 
 test:

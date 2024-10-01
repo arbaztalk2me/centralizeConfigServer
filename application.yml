@@ -9,4 +9,4 @@ eureka:
 
 
 test:
-  count: 4
+  count: 5

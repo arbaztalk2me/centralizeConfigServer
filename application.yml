@@ -14,3 +14,7 @@ microservice:
     endpoints:
       fetchUserById:
         uri: http://USER-SERVICE/users/
+
+
+test:
+  count: 1
